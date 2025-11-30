@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The barrels of Kentucy"
+title: "The barrels of Kentucky"
 author: "Azorfus"
 categories: literature
 ---
